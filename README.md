@@ -24,7 +24,7 @@
             text-align: center;
         }
 
-        h1, h2 {
+        h1, h2, h3 {
             color: #b30000;
         }
 
@@ -47,7 +47,7 @@
         }
 
         .news img {
-            width: 40%;   /* zdjęcia mniejsze i wyśrodkowane */
+            width: 40%;
             display: block;
             margin: 10px auto;
         }
